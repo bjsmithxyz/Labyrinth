@@ -2,6 +2,8 @@
 
 A retro-style puzzle game where you navigate a shifting maze to collect treasures.
 
+[**Play the Game**](https://bjsmithxyz.github.io/Labyrinth/)
+
 ## How to Play
 
 - **Objective**: Collect all the treasures scattered across the labyrinth.
